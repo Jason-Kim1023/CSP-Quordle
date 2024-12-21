@@ -1,0 +1,7 @@
+name: CS4710-Quordle-CSP
+dependencies:
+  - python=3.11.8
+  - pip
+  - pip:
+      - tk
+      - pathlib
